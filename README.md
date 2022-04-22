@@ -1,2 +1,2 @@
-# -Hololens2
+# Hololens2
 Demo Projects
